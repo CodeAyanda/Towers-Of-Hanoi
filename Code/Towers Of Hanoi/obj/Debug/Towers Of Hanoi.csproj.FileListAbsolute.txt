@@ -1,0 +1,10 @@
+C:\Users\ayand\OneDrive\Desktop\Projects\Towers Of Hanoi\Towers Of Hanoi\bin\Debug\Towers Of Hanoi.exe.config
+C:\Users\ayand\OneDrive\Desktop\Projects\Towers Of Hanoi\Towers Of Hanoi\bin\Debug\Towers Of Hanoi.exe
+C:\Users\ayand\OneDrive\Desktop\Projects\Towers Of Hanoi\Towers Of Hanoi\bin\Debug\Towers Of Hanoi.pdb
+C:\Users\ayand\OneDrive\Desktop\Projects\Towers Of Hanoi\Towers Of Hanoi\obj\Debug\Towers Of Hanoi.csproj.AssemblyReference.cache
+C:\Users\ayand\OneDrive\Desktop\Projects\Towers Of Hanoi\Towers Of Hanoi\obj\Debug\Towers_Of_Hanoi.Form1.resources
+C:\Users\ayand\OneDrive\Desktop\Projects\Towers Of Hanoi\Towers Of Hanoi\obj\Debug\Towers_Of_Hanoi.Properties.Resources.resources
+C:\Users\ayand\OneDrive\Desktop\Projects\Towers Of Hanoi\Towers Of Hanoi\obj\Debug\Towers Of Hanoi.csproj.GenerateResource.cache
+C:\Users\ayand\OneDrive\Desktop\Projects\Towers Of Hanoi\Towers Of Hanoi\obj\Debug\Towers Of Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\ayand\OneDrive\Desktop\Projects\Towers Of Hanoi\Towers Of Hanoi\obj\Debug\Towers Of Hanoi.exe
+C:\Users\ayand\OneDrive\Desktop\Projects\Towers Of Hanoi\Towers Of Hanoi\obj\Debug\Towers Of Hanoi.pdb
